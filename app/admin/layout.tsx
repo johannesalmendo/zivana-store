@@ -1,8 +1,8 @@
 import AdminNav from "../components/Admin/AdminNav";
 
 export const metadata = {
-    title: "E-Shop Admin",
-    description: "E-Shop Admin Dashboard",
+    title: "Admin Zivana",
+    description: "",
 };
 
 const AdminLayout = ({ children }: { children: React.ReactNode }) => {
